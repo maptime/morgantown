@@ -6,8 +6,7 @@ repo: morgantown
 github_org: maptime
 maptime:
   chapter: MaptimeMorgantown
-  #twitter: TwitterHandle
-  #disqus: YOUR DISQUS USERNAME
+  twitter: MaptimeMGWV
 
 future: true
 gems:
